@@ -1,0 +1,72 @@
+img {
+	height: 400px;
+}
+
+.transition {
+	transition: 0.3 ease
+}
+
+.fade {
+	opacity: 0
+}
+
+.cape-red {
+	background-color: #c91d0d
+}
+
+.danger-purple {
+	background-color: #7f42aa
+}
+
+.nega-orange {
+	background-color: #f9ad00
+}
+
+.dark-red {
+	background-color: #650901
+}
+
+.light-grey {
+	background-color: #d8d2e0
+}
+
+.ascot-blue {
+	background-color: #406ca4
+}
+
+.black-mask {
+	background-color: #000000
+}
+
+#doomsday {
+	transition: 1s ease;
+	opacity: 0;
+	height: 0;
+	width: 0;
+	background-color: #740a01;
+	position:fixed;
+	top: 0;
+	left: 0;
+}
+
+p {
+	padding-top: 25px;
+	text-align: center;
+}
+
+li {
+	font-family: 'Anton', sans-serif;
+	font-size: 20px,
+	color: #9c6bd3;
+}
+
+#text-dw {
+	font-family: "Anton";
+	font-size: 20px;
+	color: #9c6bd3,
+}
+
+.dw-purple {
+	color: #9c6bd3
+	font-size: 20px;
+}
